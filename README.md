@@ -7,7 +7,7 @@ Graph Neural Networks (GNNs) have emerged as powerful tools for fraud detection 
 
 ## Repository Structure
 ### Dataset
-GADAormer is evaluated on the YelpChi and Amazon datasets, which can be downloaded from [here]([[https://github.com](https://github.com/YingtongDou/CARE-GNN)]())
+GADAormer is evaluated on the YelpChi and Amazon datasets, which can be downloaded from [here](https://github.com/YingtongDou/CARE-GNN)
 
 ### How to Run
 To utilize GADAormer on datasets, users should follow these steps:
